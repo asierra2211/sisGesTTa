@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Local configuration file (por ejemplo, si usas Flask, Django u otro framework)
+instance/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
